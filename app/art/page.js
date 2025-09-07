@@ -56,7 +56,7 @@ else:
             突然，楼梯口传来一阵骚动。只见一个<strong>四十多岁的中年男子</strong>步履蹒跚地走上来，一袭白袍已经有些发黄，腰间佩着一柄长剑，手中还拿着个酒葫芦。他面如满月，目若朗星，虽带醉态，却自有一股飘逸出尘的气质。
           </p>
           <blockquote className="bg-amber-50 border-l-4 border-amber-400 italic p-4 rounded-r">
-            "掌柜的，再来三斗葡萄酒！记在...呃...记在翰林院账上！"他打了个酒嗝，引得满堂宾客哄笑起来。
+            &quot;掌柜的，再来三斗葡萄酒！记在...呃...记在翰林院账上！&quot;他打了个酒嗝，引得满堂宾客哄笑起来。
           </blockquote>
           <p className="text-gray-700">
             我认出他了——<strong>李白</strong>！那个名动天下的诗人，天子赐金放还的谪仙人！此刻他竟然就坐在离我不到三张桌子的地方。
@@ -93,22 +93,22 @@ else:
             </table>
           </div>
           <p className="text-gray-700 mb-4">
-            "少年人，我观你眉宇间有郁结之气，可是功名不顺？"他不等我回答，便自顾自地倒了两碗酒，"来，与我对饮一杯，让万古愁都随这杯中物散去！"
+            &quot;少年人，我观你眉宇间有郁结之气，可是功名不顺？&quot;他不等我回答，便自顾自地倒了两碗酒，&quot;来，与我对饮一杯，让万古愁都随这杯中物散去！&quot;
           </p>
           <p className="text-gray-700 mb-4">
-            我慌忙摆手："晚生...晚生不敢..."
+            我慌忙摆手：&quot;晚生...晚生不敢...&quot;
           </p>
           <p className="text-gray-700 mb-4">
-            "有何不敢！"他仰天大笑，"人生得意须尽欢，莫使金樽空对月！天生我材必有用，千金散尽还复来！"
+            &quot;有何不敢！&quot;他仰天大笑，&quot;人生得意须尽欢，莫使金樽空对月！天生我材必有用，千金散尽还复来！&quot;
           </p>
           <p className="text-gray-700 mb-4">
             就在这时，楼下突然传来一阵喧哗。我们探头望去，只见几个<strong>地痞无赖</strong>正在欺负一个卖胡琴的老者。我正犹豫间，李白已经站起身來。
           </p>
           <blockquote className="bg-red-50 border-l-4 border-red-400 italic p-4 rounded-r">
-            "住手！"他一声断喝，如雷霆震怒，"光天化日之下，岂容尔等放肆！"
+            &quot;住手！&quot;他一声断喝，如雷霆震怒，&quot;光天化日之下，岂容尔等放肆！&quot;
           </blockquote>
           <p className="text-gray-700">
-            那几个无赖先是一愣，随后哄笑起来："一个醉鬼也敢多管闲事？弟兄们，给他点颜色看看！"
+            那几个无赖先是一愣，随后哄笑起来：&quot;一个醉鬼也敢多管闲事？弟兄们，给他点颜色看看！&quot;
           </p>
         </section>
 
@@ -143,34 +143,34 @@ else:
         <section className="mb-8">
           <h2 className="text-2xl md:text-3xl font-semibold text-amber-700 mb-4">四、 金龟换酒</h2>
           <p className="text-gray-700 mb-4">
-            "先...先生好剑法！"我由衷赞叹。
+            &quot;先...先生好剑法！&quot;我由衷赞叹。
           </p>
           <p className="text-gray-700 mb-4">
-            他摆摆手，笑道："不过是些防身的伎俩，比不得诗酒之道。少年人，你可知这长安城中，什么最珍贵？"
+            他摆摆手，笑道：&quot;不过是些防身的伎俩，比不得诗酒之道。少年人，你可知这长安城中，什么最珍贵？&quot;
           </p>
           <p className="text-gray-700 mb-4">
-            我想了想："是...功名利禄？"
+            我想了想：&quot;是...功名利禄？&quot;
           </p>
           <p className="text-gray-700 mb-4">
-            "非也非也！"他又倒了一碗酒，"是<strong>知己</strong>！今日你我有缘，当浮一大白！"
+            &quot;非也非也！&quot;他又倒了一碗酒，&quot;是<strong>知己</strong>！今日你我有缘，当浮一大白！&quot;
           </p>
           <p className="text-gray-700 mb-4">
-            说罢，他摸了摸口袋，突然面露尴尬："呃...今日出门急，未带银钱...掌柜的，记账可否？"
+            说罢，他摸了摸口袋，突然面露尴尬：&quot;呃...今日出门急，未带银钱...掌柜的，记账可否？&quot;
           </p>
           <p className="text-gray-700 mb-4">
-            胡人掌柜面露难色："李翰林，您已经欠了十八贯钱了..."
+            胡人掌柜面露难色：&quot;李翰林，您已经欠了十八贯钱了...&quot;
           </p>
           <p className="text-gray-700 mb-4">
             我正在犹豫是否要用最后五文钱付账，李白却突然解下腰间一块玉佩，拍在桌上。
           </p>
           <blockquote className="bg-green-50 border-l-4 border-green-400 italic p-4 rounded-r">
-            "拿我的金龟去！换最好的酒来！"
+            &quot;拿我的金龟去！换最好的酒来！&quot;
           </blockquote>
           <p className="text-gray-700 mb-4">
-            我大惊失色："先生，这太贵重了！"
+            我大惊失色：&quot;先生，这太贵重了！&quot;
           </p>
           <p className="text-gray-700 mb-4">
-            "哈哈哈！"他仰天大笑，"五花马，千金裘，呼儿将出换美酒，与尔同销万古愁！少年人，钱财乃身外之物，何必耿耿于怀！"
+            &quot;哈哈哈！&quot;他仰天大笑，&quot;五花马，千金裘，呼儿将出换美酒，与尔同销万古愁！少年人，钱财乃身外之物，何必耿耿于怀！&quot;
           </p>
           <p className="text-gray-700">
             那晚，我们喝得酩酊大醉。李白吟诗，我磨墨；李白舞剑，我击节。直到月上中天，他才摇摇晃晃地站起身。
@@ -180,13 +180,13 @@ else:
         <section className="mb-8">
           <h2 className="text-2xl md:text-3xl font-semibold text-amber-700 mb-4">五、 别君去兮何时还</h2>
           <blockquote className="bg-blue-50 border-l-4 border-blue-400 italic p-4 rounded-r mb-4">
-            "我辈岂是蓬蒿人，仰天大笑出门去！"他唱着新作的诗句，走向长安的夜色。
+            &quot;我辈岂是蓬蒿人，仰天大笑出门去！&quot;他唱着新作的诗句，走向长安的夜色。
           </blockquote>
           <p className="text-gray-700 mb-4">
-            我急忙追上去："先生要去何处？"
+            我急忙追上去：&quot;先生要去何处？&quot;
           </p>
           <p className="text-gray-700 mb-4">
-            他转过身，月光洒在他身上，仿佛真就要羽化登仙一般："天地为庐，四海为家。或许去嵩山访元丹丘，或许去剡溪寻谢公迹。少年人，有缘自会再见！"
+            他转过身，月光洒在他身上，仿佛真就要羽化登仙一般：&quot;天地为庐，四海为家。或许去嵩山访元丹丘，或许去剡溪寻谢公迹。少年人，有缘自会再见！&quot;
           </p>
           <p className="text-gray-700 mb-4">
             说完这些，他挥挥手，大步走入长安的夜色中，只留下歌声在空气中回荡：
@@ -201,7 +201,7 @@ else:
             我站在原地，久久不能回神。摸向口袋，却发现不知何时，他竟将那块金龟玉佩塞了回来，下面还压着一张纸条：
           </p>
           <blockquote className="bg-yellow-50 border-l-4 border-yellow-400 p-4 rounded-r text-center">
-            <strong className="text-xl text-amber-800">"诗酒趁年华"</strong>
+            <strong className="text-xl text-amber-800">&quot;诗酒趁年华&quot;</strong>
             <em className="text-gray-600 block mt-2">——与君共勉</em>
           </blockquote>
           <p className="text-gray-700 mb-4">
