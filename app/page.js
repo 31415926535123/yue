@@ -12,10 +12,16 @@ export default function Home() {
           </Link>
           <div className="flex space-x-4">
             <Link 
-              href="/art" 
+              href="/game" 
               className="px-4 py-2 bg-amber-500 text-white rounded-md hover:bg-amber-600 transition-colors"
             >
-              醉游长安遇诗仙
+              游戏
+            </Link>
+            <Link 
+              href="/image" 
+              className="px-4 py-2 bg-amber-500 text-white rounded-md hover:bg-amber-600 transition-colors"
+            >
+              图片
             </Link>
           </div>
         </div>
