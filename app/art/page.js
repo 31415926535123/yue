@@ -213,7 +213,7 @@ else:
         </section>
 
         <footer className="text-center text-sm text-gray-500 mt-8 pt-4 border-t border-gray-200">
-          后记：据《唐才子传》载，李白确实有"金龟换酒"的轶事，不过是与贺知章之间发生的。本文为虚构创作，融合了多个李白传说典故。
+          后记：据《唐才子传》载，李白确实有&quot;金龟换酒&quot;的轶事，不过是与贺知章之间发生的。本文为虚构创作，融合了多个李白传说典故。
         </footer>
       </article>
     </div>
